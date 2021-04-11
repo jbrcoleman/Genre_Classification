@@ -1,5 +1,5 @@
 # Genre_Classification
-. The dataset we used comprised of 1000 30 second clips of songs within 10 different 
+The GTZAN dataset we used comprised of 1000 30 second clips of songs within 10 different 
 genres: 1. Metal 2. Rock 3. Blues 4. Classical 5. Hip Hop 6. Country 7. Pop 8. Disco 9. Jazz 10. 
 Reggae. We took a couple different approaches in building a model to classify these song 
 structures. We used CNNs to analyze the Mel-Spectrogram of the song to identify the different 
